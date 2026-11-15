@@ -19,8 +19,6 @@ An aerospace engineering portfolio project comparing a baseline solid quadcopter
 
 **Outcome:** Under the simplified static loading conditions, the optimised arm meets the stated targets. Removing material reduces estimated mass but increases stress and deflection, illustrating the trade-off between structural weight and stiffness.
 
-> **Results note:** Stress, safety factor, and displacement values are from Autodesk Fusion 360 static-stress simulations. Mass values are estimates calculated from STEP geometry using an assumed aluminium density of 2.70 g/cm³; they have **not yet been confirmed using Fusion 360 Physical Properties**.
-
 ## Design and simulation setup
 
 - **Geometry:** 170 mm nominal mounting-centre spacing; 20 mm beam width; 6 mm thickness; 36 mm-diameter motor mounting pad; 35 × 30 mm body mounting pad.
